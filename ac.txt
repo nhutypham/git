@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git init > 
 git add remote origin url
 git init
@@ -5,3 +6,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/nhutypham/git_addremote.git
 git push -u origin main
+=======
+
+
+pham thi yen nhu
+  
+
+pham thi yen nhu
+  
+>>>>>>> f97ed2ec2997f8ebe0c6a6ec6329fb1035c26e26
