@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 git init > 
 git add remote origin url
 git init
@@ -13,5 +14,7 @@ pham thi yen nhu
   
 
 pham thi yen nhu
-  
->>>>>>> f97ed2ec2997f8ebe0c6a6ec6329fb1035c26e26
+
+=======
+acdeoeoeomdksjdksjd phm thi yen nhu
+>>>>>>> develop
